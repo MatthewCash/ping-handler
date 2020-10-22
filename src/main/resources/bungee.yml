@@ -1,0 +1,7 @@
+name: PingHandler
+description: BungeeCord Ping Handler
+author: Matthew_Cash
+website: matthew-cash.com
+prefix: PingHandler
+version: 1.0.0
+main: com.matthewcash.network.PingHandler
